@@ -1,0 +1,132 @@
+// app global css in SCSS form
+.my-card {
+  width: 100%;
+  max-width: 450px;
+  margin-left: 25%;
+  margin-top: 20%;
+}
+.signup {
+  width: 100%;
+  height: 30%;
+  margin-left: 1%;
+}
+.signup-msg {
+  font-family: "inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 24px;
+}
+.signup-header {
+  font-family: "inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 54px;
+  line-height: 43px;
+  text-align: left;
+  letter-spacing: -0.01em;
+  color: #006eff;
+}
+.signup-success {
+  box-sizing: border-box;
+  margin-left: 2%;
+  margin-top: 10%;
+
+  background: #ffffff;
+  border: 1px solid #e6e6e6;
+  border-radius: 10px;
+  position: absolute;
+  width: 548px;
+  height: 30px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 24px;
+  text-align: center;
+  color: #000000;
+}
+.main-app-msg {
+  box-sizing: border-box;
+  background: #ffffff;
+  border: 1px solid #e6e6e6;
+  width: 40%;
+  padding: 2%;
+  border-radius: 10px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 24px;
+  text-align: center;
+  color: #000000;
+  position: fixed;
+  top: 30%;
+  left: 30%;
+}
+.signup-success-btn {
+  margin-top: 30%;
+  width: 50%;
+  height: 30%;
+  margin-left: 18%;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  text-align: center;
+  letter-spacing: -0.01em;
+  color: #000000;
+}
+.change-color-btn {
+  width: 50%;
+  height: 20%;
+  margin-top: 5%;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  text-align: center;
+  letter-spacing: -0.01em;
+  color: #000000;
+}
+.logout-btn {
+  width: 10%;
+  height: 20%;
+  margin-top: 16%;
+  margin-left: 30%;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  text-align: center;
+  letter-spacing: -0.01em;
+  color: #000000;
+}
+.mainapp-msg {
+  margin-top: 5%;
+  font-family: "inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 54px;
+  line-height: 43px;
+  text-align: center;
+  letter-spacing: -0.01em;
+  color: #006eff;
+}
+.redirect-btn {
+  width: 30%;
+  height: 20%;
+  margin-top: 2%;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  text-align: center;
+  letter-spacing: -0.01em;
+  color: #000000;
+}
